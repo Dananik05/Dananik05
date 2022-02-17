@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Dananik05
+- 👀 I’m interested in programming
+- 🌱 I’m learning basics in C, C++, C#, Java, Python
+- 💞️ I'm looking for a person who will win my heart
+- 📫 If you want to reach me, write to sidorowd@mail.ru
